@@ -26,4 +26,4 @@ const blocks = ["ABCDEF", "BCAD", "ADEFQRX", "BEDFG", "AEBFDGCH", "ACCCD"];
 const rule = "ABD";
 
 console.log(solution(blocks, rule));
-//["가능", "불가능", "가능", "가능", "불가능"]
+//[ '가능', '불가능', '가능', '가능', '가능', '가능' ]
